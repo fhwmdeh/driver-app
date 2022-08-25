@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "345079544754",
+    "firebase_url": "https://talabat-7b045-default-rtdb.firebaseio.com",
+    "project_id": "talabat-7b045",
+    "storage_bucket": "talabat-7b045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345079544754:android:9cc6375fc22904e11402ab",
+        "android_client_info": {
+          "package_name": "com.talabat.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345079544754-j73uh8093k4as9isbv5s1prfh9ieos2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfSZ9dTo472yii3fCUIrhvI-LH1_AcWS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345079544754-j73uh8093k4as9isbv5s1prfh9ieos2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345079544754:android:618ba36f611f09a31402ab",
+        "android_client_info": {
+          "package_name": "com.uber.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345079544754-j73uh8093k4as9isbv5s1prfh9ieos2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfSZ9dTo472yii3fCUIrhvI-LH1_AcWS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345079544754-j73uh8093k4as9isbv5s1prfh9ieos2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
